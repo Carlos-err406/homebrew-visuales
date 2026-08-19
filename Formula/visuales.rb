@@ -3,8 +3,8 @@ require "language/node"
 class Visuales < Formula
   desc "Search and download visuales.uclv.cu content from the terminal"
   homepage "https://github.com/Carlos-err406/visuales-search"
-  url "https://registry.npmjs.org/visuales/-/visuales-1.2.11.tgz"
-  sha256 "a98c47583ec787bcf955ebfb4d39ac0de26aed908b4b50597f0773dda0de81f0"
+  url "https://registry.npmjs.org/visuales/-/visuales-1.2.12.tgz"
+  sha256 "fdc21be0f6f938b556b3b12b6a848d817e9d96f30f136f000a7bd0f53d4cc51a"
   license "MIT"
 
   depends_on "node"
