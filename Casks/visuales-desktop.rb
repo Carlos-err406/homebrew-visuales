@@ -1,9 +1,9 @@
 cask "visuales-desktop" do
   arch arm: "aarch64", intel: "x86_64"
 
-  version "3.8.0"
-  sha256 arm:   "ded48048f08de6e644b1fed611bd42b6d694ec4ee501f56dd9140f40f8379ce8",
-         intel: "09e66184b2e09ce0042c84e6ebad3a57d08d7510b5f5be86708acee8123daf00"
+  version "3.8.1"
+  sha256 arm:   "d2c0d94dbcd2ef5fad831229c91dfc7b16d784eb6b2b719428b845a2cf6f71f6",
+         intel: "64d658c9d6c52acd7a5ee52c1e167653f7140d1ad5f158aa0e337b2a1c308e48"
 
   url "https://github.com/Carlos-err406/visuales-search/releases/download/v#{version}/Visuales_#{version}_darwin-#{arch}.dmg"
   name "Visuales"
